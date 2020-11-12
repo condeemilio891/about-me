@@ -6,20 +6,20 @@ body{
 }
 ul{
     font-weight: bolder;
-    color:#C97064
+    color:#1C2541
 }
 
 li{
     text-align: left;
     font-weight: normal;
-    color:#C97064;
+    color:#1C2541;
     list-style: none;
 }
 p{
-    color:#C97064
+    color:#1C2541
 }
 h1{
-    color:#C97064
+    color:#1C2541
 }
 img{
     width: 100%;
@@ -29,10 +29,3 @@ button{
 
 }
 
-
-.jumbotron-fluid{
-    background-color: "#A6B07E";
-}
-.jumbotron{
-    background-color: "#A6B07E";
-}
